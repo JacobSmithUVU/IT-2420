@@ -1,0 +1,35 @@
+<!DOCTYPE html> 
+<html>
+<head>
+	<title>IT2600 Project 1</title>
+</head>
+
+<body>
+	<h1>Web Site Critiques</h1>
+	<h2>The Questions</h2>
+	<ol>
+		<li>What was your first impression of this site?</li>
+		<li>How does this site organize the flow of information? (Do they have links on the left and text on the right? Some other scheme? No scheme?)</li>
+		<li>Does the site structure make sense or does it confuse you? Why?</li>
+		<li>Does the site graphics/layout/multimedia enhance the site or detract from it? Why</li>
+		<li>How long did it take for the home page to load? Was the load time reasonable?</li>
+		<li>Was the text color and size readable? If a background color or image was used, did it enhance or detract from the site?</li>
+		<li>Did the site have a navigation bar or other navigation tool? Was the navigation well done?</li>
+		<li>Did the site have a color scheme or look and feel that was repeated on all the pages?</li>
+		<li>How does the site respond to smaller window sizes (responsive design)?</li>
+		<li>What does this site offer that was unusual or very well done?</li>
+	</ol>
+	<hr>
+	<h2> Pitchfork - https://pitchfork.com</h2>
+		<p> 1. First impression of the Pitchfork website is that it has a lot of empty space and the text is <em>tiny</em>. </p>
+		<p> 2. It looks like the big stories are displayed big in the center, with the smaller stories to the right side. </p>
+		<p> 3. I can find things easily enough, but I can see users having an issue finding what they are looking for if they have bad eyesight</p>
+		<p> 4. There are minimal graphics, and I think that it detracts from the page. There is a lot of empty space that could be taken up by text or additional imagery.</p>
+		<p> 5. I had no issues loading this website, and it refreshed instantly.</p>
+		<p> 6. Very small text, and I did not see any accessibility tools to make it larger. It has a white background with black text, which does help with visibility.</p>
+		<p> 7. There is a navigation bar at the top center of the screen, easily found.</p>
+		<p> 8. The header, logo, and navigation bar are all consistent in the articles, but inside an article the titles, text, and images are not aligned.</p> 
+		<p> 9. The site is responsive, it goes from a 3 column layout to a single column once you narrow the window enough.</p>
+		<p> 10. I found their review score page, but the scores were not visible unless the article on the album is opened. I feel like it would be more practical to have them viewable from the Review page itself.</p> 
+</body>
+</html> 
